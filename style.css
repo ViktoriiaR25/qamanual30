@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(230, 242, 138);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.menu {
+    background-color: rgb(153, 226, 137);
+    padding: 10px;
+
+}
+#main-title {
+    color: #060000;
+}
+.about-text {
+    color: crimson;
+    font-size: 16px;
+}
+.main-photo {
+    border: 3px solid rgb(86, 132, 109);
+}
+.menu a {
+    color: #060000;
+    text-decoration: none;
+    margin: 10px;
+    font-size: 20px;
+}
+.menu a:hover {
+    color: darkmagenta;
+
+}
+.card {
+    background-color: azure;
+    padding: 15px;
+    margin: 20px;
+    border-radius: 15px;
+}
+.interest-text {
+    color: crimson;
+}
